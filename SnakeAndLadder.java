@@ -39,7 +39,7 @@ public class SnakeAndLadder extends Application {
             }
         }
 
-        Image img = new Image("C:\\Users\\Bhanu\\IdeaProjects\\SnakeAndLadder\\src\\main\\img.png");
+        Image img = new Image("https://raw.githubusercontent.com/bhanusingh008/Snake_And_Ladder/main/img.png");
         ImageView board = new ImageView();
         board.setImage(img);
         board.setFitHeight(tile_size*height);
