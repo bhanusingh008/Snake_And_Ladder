@@ -1,2 +1,2 @@
 # Snake_And_Ladder
-Another Classical Game of Snakes And Ladders, Made  in Java FX
+Another Classical Game of Snakes And Ladders, GUI is done using JAVA FX.
